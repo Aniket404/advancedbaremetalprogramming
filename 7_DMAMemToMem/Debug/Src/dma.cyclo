@@ -1,0 +1,3 @@
+C:/Users/Aniket/OneDrive/Desktop/STM32-baremetalprog/0_test/chip_headers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+../Src/dma.c:11:6:dma2_mem2mem_config	2
+../Src/dma.c:53:6:dma_transfer_start	1
